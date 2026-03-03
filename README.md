@@ -37,7 +37,7 @@ sudo ./scripts/install-system.sh
 **Settings → Keyboard → Input Sources → “+”**  
 Pesquise por **ANSI-BR** e selecione **Portuguese (Brazil, ANSI-BR)**.
 
-### (Opcional) Compose para ficar 100% igual ao do projeto Windows
+### Compose para ficar 100% igual ao do [projeto Windows](https://github.com/Raikeb/ansi-br) 
 
 No layout do Windows, `dead_acute + c` vira **ç**. No Linux, isso depende das tabelas de Compose.
 
